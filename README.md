@@ -1,7 +1,7 @@
 # Cat-Dog-Catcher-Game
 Project from CSC 133, Fall 2015
 
-To start the game a user inputs the number of cats and dogs they want in play. The game works better with significantly more dogs than cats.
+Starts by running the Starter.java file. At the start of the game a user inputs the number of cats and dogs they want in play. The game works better with significantly more dogs than cats.
 
 The cats are represented by green triangles and the dogs by red ovals that have triangular "heads" and circular "feet". These animals will move in random paths across the screen and bounce off the walls of the screen. The square on the screen is the net and can be moved up, down, left and right with the buttons to the left of the screen.
 
