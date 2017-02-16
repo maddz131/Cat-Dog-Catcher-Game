@@ -1,5 +1,5 @@
 # Cat-Dog-Catcher-Game
-Project from CSC 133, Fall 2015
+Project from CSC 133(Object Oriented Design), Fall 2015
 
 Starts by running the Starter.java file. At the start of the game a user inputs the number of cats and dogs they want in play. The game works better with significantly more dogs than cats.
 
